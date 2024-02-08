@@ -1,0 +1,34 @@
+.banner-img img {
+    height: 580px;
+}
+
+.slider-caption {
+    background-color: rgb(104, 103, 103);
+    opacity: 0.8;
+    border-radius: 8px;
+}
+
+.carousel-indicators {
+    padding: 20px 0px;
+}
+
+.slider-caption h3 {
+    font-size: 50px;
+    color: #fff;
+}
+
+/* 
+
+https://i.ibb.co/rGQ1CCr/Single-room2.png
+https://i.ibb.co/8dFRQhk/Single-room-4.png
+https://i.ibb.co/9HjgkNq/vip-1.png
+https://i.ibb.co/dPdyVmL/vip-2.png
+https://i.ibb.co/fMkw6gC/vip-3.png
+https://i.ibb.co/8gYdvGb/double-room-1.png
+https://i.ibb.co/bPgwrnp/double-room-2.png
+https://i.ibb.co/3cWthb1/double-room-3.png
+https://i.ibb.co/4WhqQgt/family-2.png
+https://i.ibb.co/Jjt8YFG/family-3.png
+https://i.ibb.co/CQm5Chr/Single-room1.png 
+
+*/

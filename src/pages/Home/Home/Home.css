@@ -1,0 +1,14 @@
+.see-rooms {
+    cursor: pointer;
+}
+
+.see-rooms a {
+    text-decoration: none;
+    color: #DEE0E4;
+}
+
+@media only screen and (max-width:768px) {
+    .see-rooms a {
+        font-size: 16px;
+    }
+}

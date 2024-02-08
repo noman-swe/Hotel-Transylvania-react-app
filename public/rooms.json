@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Single Room",
+        "description": "A single room is a room intended for one person to stay in. Choose from twin or single rooms, all of which are comfortable. Each guest has her own single room, or shares a double room.",
+        "img": "https://i.ibb.co/CQm5Chr/Single-room1.png"
+    },
+    {
+        "id": 2,
+        "name": "Double Room",
+        "description": "A double room is a hotel room with a double bed that can accommodate two people. Double rooms come in different sizes, and the room size can affect the room rate. A double room can be a good option for couples or solo travelers who want more space than a single room.",
+        "img": "https://i.ibb.co/4WhqQgt/family-2.png"
+    },
+    {
+        "id": 3,
+        "name": "Family Room",
+        "description": "Generally a family room means the room is larger than the standard room and will accommodate 4- 6 people, usually with an extra twin bed or sleeper sofa. Family Rooms feature a king-sized bed and one single bed. Each room is beautifully decorated in modern style and has spacious living area.",
+        "img": "https://i.ibb.co/Jjt8YFG/family-3.png"
+    }
+]
