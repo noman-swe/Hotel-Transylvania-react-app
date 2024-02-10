@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 
-
 const useRooms = () => {
     const [rooms, setRooms] = useState([]);
     useEffect(() => {

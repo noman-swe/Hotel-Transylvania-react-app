@@ -1,7 +1,6 @@
 import React from 'react';
 import { Card, CardGroup } from 'react-bootstrap';
 import './Room.css';
-import { Link } from 'react-router-dom';
 
 const Room = ({ room }) => {
     const { name, description, img } = room;

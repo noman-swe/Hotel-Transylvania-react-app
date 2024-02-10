@@ -1,10 +1,17 @@
-.see-rooms {
+.see-rooms-btn {
     cursor: pointer;
+    background-color: #DEE0E4;
+    width: 100%;
 }
 
-.see-rooms a {
+.see-rooms-btn:hover {
+    background-color: #8d96a8;
+}
+
+.see-rooms-btn a {
     text-decoration: none;
-    color: #DEE0E4;
+    /* color: #DEE0E4; */
+    color: black;
 }
 
 @media only screen and (max-width:768px) {
